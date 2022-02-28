@@ -1,2 +1,2 @@
 # SubCounter-for-Scriptable
-A Terminal-like Widget for Scriptable iOS made with SubStats v2 API Raw Raw
+A Terminal-like Widget for Scriptable iOS made with SubStats v2 API
