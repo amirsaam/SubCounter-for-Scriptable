@@ -5,4 +5,6 @@ SubCounter is a custom widget written in JavaScript forked from [TermiWidget](ht
 In order to use SubCounter you need to:
 - Install [Scriptable](https://apps.apple.com/dk/app/scriptable/id1405459188) on your device runing iOS or iPadOS
 - Create a New Script via + button in Scriptable app
-- Copy and Paste all the codes in [This Gist](https://gist.github.com/amirsaam/e531b5f1662fa8bdd8a024eefa06a728) to the New Script.
+- Copy and Paste all the codes in [SubCounter Gist](https://gist.github.com/amirsaam/e531b5f1662fa8bdd8a024eefa06a728) to the New Script you created
+or
+- Use [Import-Script.js](https://github.com/supermamon/scriptable-scripts/tree/master/Import-Script) created by [SuperMamon](https://github.com/supermamon)
